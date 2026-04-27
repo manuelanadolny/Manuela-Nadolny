@@ -6,3 +6,8 @@ body{
     background-color: #9932CC;
     display: flex;
 }
+
+div{
+        margin: 20px;
+    padding: 20px;
+}
