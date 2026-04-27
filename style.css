@@ -1,7 +1,8 @@
 .foto{
-    width: 50%;
+    width: 30%;
 }
 
 body{
     background-color: #9932CC;
+    display: flex;
 }
