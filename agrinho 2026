@@ -11,10 +11,26 @@
         <p>Porque preservar</p>
         <p>Como preservar</p>
     </header>
-    
+    <section>
     <img>file:///home/chronos/u-44bab3c28fd1f64fe28a19474431d456ba561d3f/MyFiles/Downloads/Mata%20Ciliar%20Econ%C3%B4mica_%20proteger%20%C3%A1gua%20e%20gerar%20renda%20-%20Ruy%20Gripp.jpeg
     <h1> Mata Ciliar</h1>
     <p> Preservando recursos naturais</p>
     <p> saiba mais</p>
+    </section>
+    <section>
+        <h1> O que é a mata ciliar</h1>
+        <p> A Mata Ciliar é importante pois atua como uma barreira contra poluentes, evita assoreamento, e serve também como corredor ecológico para a Fauna</p>
+    </section>
+    <section>
+        <h1> Estraégias de reflorestamento</h1>
+        <p> O reflorestamento ajuda a restaurar habitats, aumenta a biodiversidade e estabiliza o solo, contribuindo para ecossistemas mais saudáveis ​​e água mais limpa.
+</p>
+<h1> agricultura sustentável</h1>
+<p> A agricultura sustentável promove práticas que reduzem a poluição, conservam os recursos e aumentam a resiliência dos nossos ambientes naturais.
+</p>
+<h1>  monitoramento da qualidade da água</h1>
+<p>O monitoramento da qualidade da água garante ecossistemas seguros, possibilitando medidas proativas para proteger a vida aquática e a saúde humana da poluição.
+</p>
+    </section>
 </body>
 </html>
